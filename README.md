@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Mikeojie/testimonials]
-- Live Site URL: [testimonial-mikeojie.netlify.app]
+- Live Site URL: [https://testimonial-mikeojie.netlify.app]
 
 ## My process
 
