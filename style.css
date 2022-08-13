@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    display: flex;
+
+}
+img{
+    border-radius: 50%;
+    height: 30px;
+    margin-top: 5px;
+}
+aside{
+    margin-left: 15px;
+}
+body{
+    max-width: 1440px;
+    background-color: hsl(210, 46%, 95%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.daniel{
+    padding: 30px 30px 30px 30px;
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    margin: 20px 10px 20px 50px;
+    color: #fff;
+
+}
+article{
+    margin-top: 20px;
+}
+p{
+    opacity: 50%;
+    font-size: 12px;
+}
+.story{
+    margin-top: 20px;
+    opacity: 70%;
+    
+}
+.up{
+    display: flex;
+    margin-top: 70px;
+}
+.down{
+    display: flex;
+    margin-top: 10px;
+}
+.big{
+    display: f;
+}
+.page{
+    display: flex;
+}
+.jonathan{
+    padding: 30px 30px 30px 30px;
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 10px;
+    margin: 20px 10px 20px 20px;
+    color: #fff;
+} 
+.kira{
+    padding: 30px 30px 30px 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 85px 20px 20px 20px;
+    color: hsl(217, 19%, 35%);
+}
+.jeanette{
+    padding: 30px 30px 30px 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 0px 30px 20px 50px;
+    color: hsl(217, 19%, 35%);
+}    
+.patrick{
+    padding: 30px 40px 30px 30px;
+    background-color: hsl(217, 22%, 12%);
+    border-radius: 10px;
+    margin: 0px 10px 20px 0px;
+    color: #fff;
+    }
